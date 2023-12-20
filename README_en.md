@@ -2,6 +2,7 @@
 
 ## Theory
 > ***[Arcticle on habr.com](https://habr.com/ru/articles/140611/)***
+> ***[Wikipedia article](https://en.wikipedia.org/wiki/Hamming_code)***
 >
 > I used Hamming coding "12 8": for every 8 bits 4 parity bits are created: 12 total
 
