@@ -1,5 +1,7 @@
 # Кодирование/декодирование Хэмминга без сжатия
 
+### Также доступно на английском: [English](README.md)
+
 ## Теория
 > ***[Статья на habr.com](https://habr.com/ru/articles/140611/)***
 > ***[Статья на Wiki](https://en.wikipedia.org/wiki/Hamming_code)***
