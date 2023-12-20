@@ -9,7 +9,7 @@
 > I used Hamming coding "12 8": for every 8 bits 4 parity bits are created: 12 total
 
 ## Code implementation
-Language - C++.
+Language - C++.  
 Defects in implementation:
 1. 12 encoded bits are writing in file as 2 bytes, not as 12 bits consistently, => it is possible to make encoded bits written down successively, but decoding will change and last byte may have only 4 valued bits
 2. The data from the file is initially stored in a string, and then the string is encoded. This was done because the initial encoding was done and tested in another project using strings, and for convenience, I decided not to change it.
