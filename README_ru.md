@@ -1,6 +1,6 @@
 # Кодирование/декодирование Хэмминга без сжатия
 
-### Также доступно на английском: [English](README.md)
+### Availiable also on English: [English](README.md)
 
 ## Теория
 > ***[Статья на habr.com](https://habr.com/ru/articles/140611/)***  
