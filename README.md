@@ -1,6 +1,6 @@
 # Hamming encoding/decoding
 
-### Availiable also on Russian: [Русский](README_ru.md)
+### Также доступно на русском: [Русский](README_ru.md)
 
 ## Theory
 > ***[Arcticle on habr.com](https://habr.com/ru/articles/140611/)***  
